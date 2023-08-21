@@ -1,0 +1,16 @@
+.NavBar {
+    display: flex;
+    border-bottom: 1px solid;
+    margin-bottom: 30px;
+    justify-content: space-between;
+    padding: 5px;
+}
+
+.NavBar img {
+    width: 80px;
+}
+
+.NavBar ul {
+    display: flex;
+    text-decoration: none;
+}

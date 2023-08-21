@@ -1,0 +1,11 @@
+.Button {
+    border: 1px solid;
+    padding: 10px;
+    display: inline-block;
+    text-transform: uppercase;
+    text-align: center;
+    width: 250px;
+    color: inherit;
+    text-decoration: none;
+    margin-right: 10px;
+}
